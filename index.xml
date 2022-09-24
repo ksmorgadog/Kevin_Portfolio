@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin&#39;s Portfolio on Kevin Morgado</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content in Kevin&#39;s Portfolio on Kevin Morgado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 12:30:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Sales - Kaggle</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/salespred/</link>
+      <pubDate>Fri, 23 Sep 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/salespred/</guid>
+      <description>The challenge related to this project - competition is the prediction of total sales of four books in six countries. However, the main difficulty is that the years to be predicted include the period of pandemic and quarantine, being necessary to make an adjustment in order to predict the values for the year 2021.
+Specifically, the biggest change is in 2020, with a decrease in sales within the quarantine period. Therefore, in order to make the prediction, an XGBoost model and the following time-based variables, given by the Feature Engineering or Feature Creation process, were used:</description>
+    </item>
+    
+    <item>
+      <title>Number Classification</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/digitcnn/</link>
+      <pubDate>Thu, 15 Sep 2022 12:30:32 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/digitcnn/</guid>
+      <description>As an introduction to the use of Tensorflow for image classification, a Python Notebook was created. In it, a set of illustrations corresponding to handwritten numbers (MNIST) was categorized.
+For this purpose, we used the image enlargement process from the zoom and rotation of the different digits using the ImageDataGenerator tool.
+datagen = ImageDataGenerator( rotation_range=5, #Degree from random rotations zoom_range = 0.1, width_shift_range=0.05, #Fraction of total width height_shift_range=0.05 #Fraction of total height ) From this set, a convolutional neural network was built with the following layers:</description>
+    </item>
+    
+    <item>
+      <title>USA Generation Analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/energyproy1/</link>
+      <pubDate>Fri, 09 Sep 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/energyproy1/</guid>
+      <description>For this project, It was considered the importance of knowing the progress of Energy Generation and the availability of Open Source data on the Internet, which makes possible the analysis of the evolution of this variable according to a wide range of conditions. Therefore, taking as a reference the information coming from the U.S. Energy Information Administration (EIA), an Explorative Data Analysis (EDA) was built considering the following variables:
+Date - From 2001 to 2022 State - All the recognized states plus an additional variable that groups the total.</description>
+    </item>
+    
+    <item>
+      <title>Product failure forecast</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/laboratorypred/</link>
+      <pubDate>Tue, 30 Aug 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/laboratorypred/</guid>
+      <description>Among the competencies provided by Kaggle there are some designed for an intermediate level of knowledge, called Tabular Playground. In these, the main objective is the knowledge and practice of using Machine Learning models. In this case, the project is based on the August 2022 edition, reaching the top 16% of more than 2000 teams.
+The problem to be solved consisted in predicting the level of failure of some products from the information coming from a set of laboratory measurements.</description>
+    </item>
+    
+    <item>
+      <title>House Prices Forecast</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/pricepred/</link>
+      <pubDate>Fri, 05 Aug 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/pricepred/</guid>
+      <description>In this project based on Kaggle data I predicted the price of houses from properties such as:
+Number of bathrooms Lot size Zone Classification Condition and maintenance of the house Garages With this data grouped in a CSV table, a cleaning process of the information was made considering:
+Null elements - corresponding to missing data or with the meaning that X feature is not available in the property. Total categories between training and test data, since according to this the machine learning model may present problems.</description>
+    </item>
+    
+    <item>
+      <title>Titanic survival</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/titanicpred/</link>
+      <pubDate>Sat, 23 Jul 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/titanicpred/</guid>
+      <description>This project was divided into two parts, the first one corresponding to the Exploratory Data Analysis (EDA) of the passengers of the Titanic, together with a column that allowed me to identify who survived and who did not. Therefore, the objective of the second part was to predict from this data whether a person survived the event. For this purpose, the following fields were considered:
+Name Class - poor to rich Gender Age Passport fee Cabin Number Number of family members on board However, the challenge was that several data gaps correspond to age, so a simple linear regression system was used to obtain this value, managing to identify for example the relation between age and the number of family members.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <description>I have more than two years of experience in electric vehicles, demand management, renewable energies, power systems, optimization, and Public Lightning. I stand out for being a dedicated and organized person with a set of soft skills acquired from my years of volunteering and self-learning.
+Interest in projects and research in renewable energy, Machine Learning, Data Science, and Big Data, in which I have completed online courses and certifications.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
+      <description>Feel free to contact me at my Linkedin or Kaggle account:
+https://www.linkedin.com/in/kevinmorgado/
+https://www.kaggle.com/kevinmorgado/</description>
+    </item>
+    
+  </channel>
+</rss>

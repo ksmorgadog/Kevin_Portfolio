@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Kevin Morgado</title>
+    <link>https://gohugo-theme-ananke.pages.dev/es/post/</link>
+    <description>Recent content in Proyectos on Kevin Morgado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ventas de libros - Kaggle</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/salespred/</link>
+      <pubDate>Fri, 23 Sep 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/salespred/</guid>
+      <description>El reto correspondiente a este proyecto - competencia es la predicción de ventas totales de cuatro libros en seis paises. Sin embargo, la dificultad principal es que dentro de los años a predecir se encuentra el período de pandemia y de cuarentena, siendo necesario realizar un ajuste para poder predecir los valores del año 2021.
+Específicamente, el mayor cambio se encuentra en el 2020 con una disminución de ventas dentro del período correspondiente a las cuarentenas.</description>
+    </item>
+    
+    <item>
+      <title>Clasificación de Números</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/digitcnn/</link>
+      <pubDate>Thu, 15 Sep 2022 12:30:32 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/digitcnn/</guid>
+      <description>Como introducción al uso de Tensorflow como medio para la clasificación de imágenes se creó un Notebook en Python en el cual se realizó la categorización de un conjunto de ilustraciones correspondientes a números escritos a mano (MNIST).
+Para ello se utilizó el proceso de aumento de imágenes a partir del zoom y de rotación de los distintos dígitos utilizando la herramientra de ImageDataGenerator:
+datagen = ImageDataGenerator( rotation_range=5, #Degree from random rotations zoom_range = 0.</description>
+    </item>
+    
+    <item>
+      <title>Análisis de generación de energía en Estados Unidos</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/energyproy1/</link>
+      <pubDate>Fri, 09 Sep 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/energyproy1/</guid>
+      <description>Como base para este proyecto se consideró la importancia de conocer el progreso de la Generación de energía y de la disponibilidad de información de tipo Open Source en Internet, lo que hace posible el análisis de la evolución de esta variable de acuerdo con una amplia gama de condiciones. Por ello, teniendo como referencia la información proveniente de la U.S. Energy Information Administration (EIA) se construyo un Analisis Explotario de la Información (EDA) considerando las siguientes variables:</description>
+    </item>
+    
+    <item>
+      <title>Predicción de fallo en producto</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/laboratorypred/</link>
+      <pubDate>Tue, 30 Aug 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/laboratorypred/</guid>
+      <description>Dentro de las competencias brindadas por Kaggle existen unas diseñadas para un nivel intermedio de conocimiento, denominadas Tabular Playground. En estas el objetivo principal es el conocimiento y la práctica de utilización de modelos de Machine Learning. En este caso, el proyecto se basa en la edición de agosto de 2022, alcanzando el top 16% de más de 2000 equipos.
+El problema a resolver consistia en predecir el nivel de fallo de unos productos a partir de la información proveniente de un conjunto de mediciones de laboratorio.</description>
+    </item>
+    
+    <item>
+      <title>Predicción de precio de hogares</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/pricepred/</link>
+      <pubDate>Fri, 05 Aug 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/pricepred/</guid>
+      <description>En este proyecto basado en los datos de Kaggle se buscó predecir el precio de inmuebles a partir de propiedades tales como:
+Cantidad de baños Tamaño del lote Clasificación de la Zona Condicion y mantenimiento de la casa Garajes Con estos datos agrupados en una tabla CSV se hizo un proceso de limpieza de la información considerando
+Elementos nulos - correspondientes a datos faltantes o al significado de que X característica no está disponible en el inmueble.</description>
+    </item>
+    
+    <item>
+      <title>Sobrevivientes del Titanic</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/titanicpred/</link>
+      <pubDate>Sat, 23 Jul 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/titanicpred/</guid>
+      <description>Este proyecto se dividió en dos partes, siendo la primera correspondiente al Analisis de la Información (EDA) de los pasajeros del Titanic, en conjunto con una columna que permite identificar quien sobrevivió y quien no. Por ello, el objetivo de la segunda parte fue predecir a partir de estos datos si una persona sobrevivió al evento. Para ello se consideraron los siguientes campos:
+Nombre Clase - pobre a rico Género Edad Tarifa de pasaporte Número de Cabina Número de familiares a bordo No obstante, se presentó el reto de que había varios datos vacios correspondientes a la edad, por lo que se utilizó un sistema de regresión linear simple para obtener este valor, logrando identificar por ejemplo correlaciones entre la edad y la cantidad de familiares.</description>
+    </item>
+    
+  </channel>
+</rss>
