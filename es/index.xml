@@ -74,8 +74,10 @@ Nombre Clase - pobre a rico Género Edad Tarifa de pasaporte Número de Cabina N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ksmorgadog.github.io/Kevin_Portfolio/es/about/</guid>
-      <description>Tengo más de dos años de experiencia en trabajos asociados con vehículos eléctricos, gestión de la demanda, fuentes renovables, sistemas de potencia, optimización y Alumbrado Público. Me destaco por ser una persona dedicada, organizada y con un conjunto de habilidades blandas resultado de mis años de voluntariado y de aprendizaje autodidacta.
-Interés en proyectos e investigación en energías renovables, Aprendizaje de Máquina, Ciencia de datos y Big Data, en los cuales he realizado cursos y certificaciones en línea.</description>
+      <description>Lenguajes de programación: Python, SQL, Pyspark, Git
+Herramientas profesionales: Latex, Excel, Word, Mendeley, Trello
+Idiomas: Ingles C1, Francés B1+
+Soy egresado de la Universidad Nacional de Colombia, con más de tres años de experiencia como investigador/programador en proyectos asociados con transición energética, y recientemente me he desempeñado como Científico de Datos en el sector financiero. Me destaco por ser una persona dedicada, organizada y con un conjunto de habilidades blandas resultado de mis años de voluntariado y de aprendizaje autodidacta.</description>
     </item>
     
     <item>
@@ -84,7 +86,7 @@ Interés en proyectos e investigación en energías renovables, Aprendizaje de M
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ksmorgadog.github.io/Kevin_Portfolio/es/contact/</guid>
-      <description>Me puedes contactar a través de LinkedIn o Kaggle:
+      <description>Si estás interesado en mi servicio y deseas obtener más información, no dudes en enviarme un mensaje por Linkedin o Kaggle. Estaré encantado de responder a todas tus preguntas y brindarte la asistencia que necesites:
 https://www.linkedin.com/in/kevinmorgado/
 https://www.kaggle.com/kevinmorgado/</description>
     </item>
